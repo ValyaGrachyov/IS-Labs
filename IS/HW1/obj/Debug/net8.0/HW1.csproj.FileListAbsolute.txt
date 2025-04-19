@@ -32,3 +32,4 @@ C:\Users\User\Desktop\IS-Labs\IS\HW1\obj\Debug\net8.0\refint\HW1.dll
 C:\Users\User\Desktop\IS-Labs\IS\HW1\obj\Debug\net8.0\HW1.pdb
 C:\Users\User\Desktop\IS-Labs\IS\HW1\obj\Debug\net8.0\HW1.genruntimeconfig.cache
 C:\Users\User\Desktop\IS-Labs\IS\HW1\obj\Debug\net8.0\ref\HW1.dll
+C:\Users\User\Desktop\IS-Labs\IS\HW1\obj\Debug\net8.0\HW1.sourcelink.json
